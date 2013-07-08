@@ -14,3 +14,10 @@
 
 * [Apache HttpComponents - HttpComponents Downloads](http://hc.apache.org/downloads.cgi)
 * [javaのHttpClientでファイルをダウンロード(proxy経由とBASIC認証付き) | Pa-kun plus idea](http://web.plus-idea.net/2012/04/java-httpclient-proxy-basic/)
+
+### Jar file
+
+* [Using Gradle to build a jar with dependencies - Stack Overflow](http://stackoverflow.com/questions/4871656/using-gradle-to-build-a-jar-with-dependencies)
+* [Javaの道：基本事項（５．クラスパス）](http://www.javaroad.jp/java_basic2.htm)
+* [Java/jarファイルの配布と実行方式 - Glamenv-Septzen.net](http://www.glamenv-septzen.net/view/1121)
+* [Jarファイルメモ(Hishidama's java-archive Memo)](http://www.ne.jp/asahi/hishidama/home/tech/java/jar.html)
