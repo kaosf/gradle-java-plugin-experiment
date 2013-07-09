@@ -1,5 +1,23 @@
 # Gradle Java Plugin Experiment
 
+## Environment
+
+* Ubuntu Server amd64 12.04
+* Java (Oracle JDK 1.6.0)
+* GVM 1.2.1
+* Gradle 1.6
+
+### How to setup
+
+#### JRE and JDK
+
+* [https://github.com/kaosf/ubuntu-setup/blob/52d2725185a749ce5e314db535901a6da0aeb5ec/setup.sh#L104-107](https://github.com/kaosf/ubuntu-setup/blob/52d2725185a749ce5e314db535901a6da0aeb5ec/setup.sh#L104-107)
+* [Ubuntu 12.04 に Oracle Java 6, 7 (JRE, JDK) をインストール - Qiita](http://qiita.com/ka_/items/dbeca6fac63a6e8ec9a6)
+
+#### GVM and Gradle
+
+* [https://github.com/kaosf/ubuntu-setup/blob/52d2725185a749ce5e314db535901a6da0aeb5ec/gradle-setup.sh](https://github.com/kaosf/ubuntu-setup/blob/52d2725185a749ce5e314db535901a6da0aeb5ec/gradle-setup.sh)
+
 ## "adder" directory
 
 A simple project for generating `adder.jar`.
