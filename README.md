@@ -1,5 +1,13 @@
 # Gradle Java Plugin Experiment
 
+## "adder" directory
+
+A simple project for generating `adder.jar`.
+
+Run `gradle test` for test.
+
+Run `gradle jar` for generating a jar file.
+
 ## References
 
 ### Gradle
