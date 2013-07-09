@@ -10,7 +10,7 @@
 * [第23章 Javaプラグイン](http://gradle.monochromeroad.com/docs/userguide/java_plugin.html)
 * [javaのビルドをgradleで行う：実践編5：マルチプロジェクト時のprovidedCompileについて - treeのメモ帳](http://treeapps.hatenablog.com/entry/2013/06/19/010640)
 
-### Apache HTTPConponents
+### Apache HTTPComponents
 
 * [Apache HttpComponents - HttpComponents Downloads](http://hc.apache.org/downloads.cgi)
 * [javaのHttpClientでファイルをダウンロード(proxy経由とBASIC認証付き) | Pa-kun plus idea](http://web.plus-idea.net/2012/04/java-httpclient-proxy-basic/)
